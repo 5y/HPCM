@@ -1,6 +1,6 @@
 HPCM
 ====
 
-HPCM Online Side 
+HPCM Online Side Manager 
 
-Website and Online manager
+With Python and Redis 
